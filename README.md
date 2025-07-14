@@ -1,6 +1,6 @@
 This is a getting-started project using API call and plotly library for dynamic visualization.
 
-Just like GUI enables people to interact with applications, API allows applications to interact to each other.
+Just like GUI enables people to interact with applications, API allows applications to interact with each other.
 These interactions can take many different forms, such as security purpose(Authentication and Authorization), 
 sharing functionality, data retrieval, etc. 
 
